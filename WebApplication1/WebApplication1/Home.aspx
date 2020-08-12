@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            welcome to git hub
+            welcome
         </div>
     </form>
 </body>
